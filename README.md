@@ -10,12 +10,13 @@ Approach:
 Here we are verifying that a person with correct email and password combination will be able to login and if a person enters wrong email id, he will get error message 
 
 SetUp and Run: 
-Make sure your machine has latest version of node.js if not please install node.js 
-Once done run => npm i (it will install all npm dependencies) 
-Then run npx cypress open 
-Select relevant browser from the top right corner
-Then select run 2 integration specs 
-It will run both the test cases 
+Make sure your machine has latest version of node.js if not please install node.js <br/>
+Once done run => npm i (it will install all npm dependencies) <br/>
+Now update the test data at location cypress/fixtures/{test-case-name} <br/>  
+Then run npx cypress open <br/>
+Select relevant browser from the top right corner <br/>
+Then select run 2 integration specs <br/>
+It will run both the test cases <br/>
 To keep things simple we have not introduced parallel running and jenkins integration for now(can be scaled later) 
 
 
