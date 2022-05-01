@@ -1,0 +1,7 @@
+{
+  "correctEmail": "muk.mahe@gmail.com",
+  "correctPassword":"password",
+  
+  "incorrectEmail": "muk.mahe@gmail.com",
+  "incorrectPassword":"password"
+}

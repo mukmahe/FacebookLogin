@@ -1,0 +1,19 @@
+{
+  "name": "facebook-login",
+  "version": "1.0.0",
+  "description": "Assignment ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "decide later "
+  },
+  "author": "Mukul Maheshwari",
+  "license": "ISC",
+  "devDependencies": {
+    "-": "^0.0.1",
+    "cypress": "^9.6.0"
+  }
+}

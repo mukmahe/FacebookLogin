@@ -1,0 +1,6 @@
+{
+    "env":{
+        "production":"https://www.facebook.com/",
+        "test":"https://www.fb.com/"    
+    }
+}
