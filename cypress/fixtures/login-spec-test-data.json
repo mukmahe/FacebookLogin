@@ -1,7 +1,7 @@
 {
   "correctEmail": "muk.mahe@gmail.com",
-  "correctPassword":"password",
+  "correctPassword":"pleaseEnterPassword",
   
-  "incorrectEmail": "muk.mahe@gmail.com",
+  "incorrectEmail": "helloword",
   "incorrectPassword":"password"
 }

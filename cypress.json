@@ -3,5 +3,7 @@
         "productionURL":"https://www.facebook.com/",
         "landingURL":"https://www.fb.com/"    
     },
-    "watchForFileChanges":false
+    "watchForFileChanges":false,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout":6000
 }
