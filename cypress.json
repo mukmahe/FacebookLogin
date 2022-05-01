@@ -1,6 +1,7 @@
 {
     "env":{
-        "production":"https://www.facebook.com/",
-        "test":"https://www.fb.com/"    
-    }
+        "productionURL":"https://www.facebook.com/",
+        "landingURL":"https://www.fb.com/"    
+    },
+    "watchForFileChanges":false
 }
